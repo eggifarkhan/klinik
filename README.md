@@ -1,2 +1,3 @@
 # klinik
-Sistem Informasi Klinik Netbeans
+Sistem Informasi Klinik di Pekanbaru 
+Develop menggunakan Java Netbeans
